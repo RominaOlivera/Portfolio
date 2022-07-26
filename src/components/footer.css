@@ -1,0 +1,33 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 100vw; */
+    height: 200px;
+    background-image: url(https://es.rankiapro.com/wp-content/uploads/2019/08/fondo-tecnologico-preferido-selectores.jpg);
+    background-size: cover;
+    color: #fff;
+    
+  }
+ 
+  .footer-content h2{
+    font-size: 1.5em;
+  }
+ 
+  .footer-content h5{
+    font-size: 1em;
+  }
+ 
+  .social-network{
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-top: 1em;
+    font-size: 1.8em;
+    
+  }
+ 
+  .social-network i{
+    color: #fff;
+  }
