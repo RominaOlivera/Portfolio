@@ -10,7 +10,7 @@ export default function footer() {
             <footer class="footer">
 			<div class="footer-content">
 				<h2>Romina Olivera</h2>
-				<h5>Desarrolladora Full Stack</h5>
+				<h5>Full Stack Developer</h5>
 			</div>
 			<div class="social-network">
 				<a href="https://twitter.com/RominaOli27" target="_blank">
