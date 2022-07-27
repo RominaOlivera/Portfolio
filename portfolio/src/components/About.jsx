@@ -24,8 +24,8 @@ const About = () => {
               <p>Hola!!</p>
             </div>
             <div>
-              <p className='text-xl'>Mi nombre es Romina Olivera soy desarrolladora web con una excelente habilidad de comunicacion. Amo la programacion,
-			me encanta trabajar en equipo, colaborar y estar constantemente informada sobre nuevas tecnologias.</p>
+              <p className='text-xl'>Mi nombre es Romina Olivera soy desarrolladora web con una excelente habilidad de comunicación. Amo la programacion,
+			me encanta trabajar en equipo, colaborar y estar constantemente informada sobre nuevas tecnologías.</p>
             </div>
           </div>
       </div>
