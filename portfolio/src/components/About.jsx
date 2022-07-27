@@ -27,7 +27,7 @@ const About = () => {
             <p className='text-xl'>Mi nombre es Romina Olivera soy desarrolladora web tengo conocimientos en JavaScript, React, Node, SQL Y PHP entre otras.</p>
               
               <p  className='text-xl'>Soy una apasionada por la programación,
-              tengo aptitud para trabajar en equipo, crear nuevas ideas en colaboración y sobre todo aprender nuevas tecnologías y estar constantemente actualizada de las mismas.</p>
+              tengo aptitud para trabajar en equipo, crear nuevas ideas en colaboración, aprender nuevas tecnologías y estar constantemente actualizada de las mismas.</p>
           </div>
         </div>
       </div>
