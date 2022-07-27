@@ -13,6 +13,10 @@ import git from "../assets/git-3.png"
 import vercel from "../assets/vercel.png"
 import heroku from"../assets/Heroku.png"
 import GitHub from '../assets/github.png';
+import Tailwind from "../assets/tailwind.png"
+import Illu from "../assets/Illustrator.png"
+import Photo from "../assets/photo.png"
+import My from "../assets/MySQL.svg.png"
 
 
 const ProductList = () => {
@@ -71,6 +75,20 @@ const ProductList = () => {
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-40 mx-auto' src={heroku} alt="HTML icon" />
+                  <p className='my-4'></p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
+
+                  <p className='my-4'></p>
+              </div><div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Illu} alt="HTML icon" />
+                  <p className='my-4'></p>
+              </div><div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Photo} alt="HTML icon" />
+                  <p className='my-4'></p>
+              </div><div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={My} alt="HTML icon" />
                   <p className='my-4'></p>
               </div>
               
