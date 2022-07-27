@@ -4,14 +4,13 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
-import Skills from "./components/Skills";
+
 import Work from "./components/Work";
-import Toggle from "./components/toggle/Toggle"
-import product from "./components/ProductList"
-// import About from "./components/about/About"
+import Toggle from "./components/Toggle"
+
 import { ThemeContext } from "./context";
 import ProductList from "./components/ProductList";
-import Product from "./components/product/Product"
+
 import Footer from "./components/footer";
 // import Contact from "./components/contact/Contact";
 
