@@ -17,7 +17,7 @@ import GitHub from '../assets/github.png';
 
 const ProductList = () => {
   return (
-    <div name='skills' className='w-full h-screen bg-red'>
+    <div name='skills' className='w-full h-screen '>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>

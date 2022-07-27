@@ -39,3 +39,9 @@
     display: none;
   }
 }
+@media screen and (max-width: 600px) {
+
+  .proyect{
+    margin-top:100px;
+  }
+}

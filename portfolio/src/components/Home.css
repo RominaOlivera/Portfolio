@@ -124,5 +124,50 @@
       width: 140%;
       
     }
+   
+    .i-bg{
+      width: 87%;
+    }
+
+    .i-img{
+      position: relative;
+      top:2vw;
+      left:30vw
+    }
+
+   
   }
+  @media screen and (max-width: 1000px) {
+    .i {
+      flex-direction: column;
+    }
+  
+    .i-left-wrapper {
+    
+      padding: 50px;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      height: 100%;
+    }
+  
+    .i-desc{
+      display: none;
+    }
+    .i-title-item{
+      font-size: 28px;
+      width: 140%;
+      
+    }
+   
+    .i-img{
+      position: relative;
+      top:4vw;
+      left:30vw
+    }
+    .i-bg{
+      height: 105%;
+    }
+  }
+
   
