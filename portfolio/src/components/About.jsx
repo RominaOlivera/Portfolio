@@ -4,7 +4,7 @@ import "./about.css";
 
 const About = () => {
   return (
-    <div className="a w-full h-screen" name='about'>
+    <div className="a w-full h-screen todo" name='about'>
 
       <div className="a-left">
 
