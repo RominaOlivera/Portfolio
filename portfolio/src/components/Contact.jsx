@@ -43,14 +43,14 @@ const Contact = () => {
           <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 '>Contacto</p>
                 <p className='py-4 text-xl'>
-Envíe el formulario a continuación o envíeme un correo electrónico: Oliveraromina27@gmail.com</p>
+Complete el formulario a continuación o vía correo electrónico: Oliveraromina27@gmail.com</p>
             </div>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nombre" name="user_name" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Asunto" name="user_subject" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
             <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Mensaje" name="message" />
             <button>Enviar</button>
-            {done && "Gracias por tu mensaje"}
+            {done && "Su mensaje ha sido enviado. Muchas gracias!"}
           </form>
     </div>
   )
