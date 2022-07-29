@@ -65,9 +65,9 @@ const Home = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Full Stack Developer</div>
+              <div className="i-title-item">Back-End</div>
               <div className="i-title-item">Full Stack Developer</div>
-              <div className="i-title-item">Full Stack Developer</div>
-              <div className="i-title-item">Full Stack Developer</div>
+              <div className="i-title-item">Front-End</div>
               <div className="i-title-item">Full Stack Developer</div>
             </div>
           </div>
