@@ -45,10 +45,10 @@ const Contact = () => {
                 <p className='py-4 text-xl'>
 Complete el formulario a continuación o vía correo electrónico: Oliveraromina27@gmail.com</p>
             </div>
-            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nombre" name="user_name" />
+            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nombre" required name="user_name" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Asunto" name="user_subject" />
-            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
-            <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Mensaje" name="message" />
+            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" required name="user_email" />
+            <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Mensaje" required name="message" />
             <button>Enviar</button>
             {done && "Su mensaje ha sido enviado. Muchas gracias!"}
           </form>
