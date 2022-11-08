@@ -58,7 +58,7 @@ const Work = () => {
                 Poke app
               </span>
               <div className='pt-8 text-center'>
-                <a href="https://pi-poke.vercel.app/"   target="_blank">
+                <a href="https://pokem.vercel.app/"   target="_blank">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                    Demo
                   </button>
