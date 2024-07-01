@@ -12,7 +12,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
 import { Link } from "react-scroll";
-import CV from "../assets/Romina Olivera - Full Stack Developer.pdf"
+import CV from "../assets/RominaOlivera-FullStackDeveloper.pdf"
 
 
 const Navbar = () => {
