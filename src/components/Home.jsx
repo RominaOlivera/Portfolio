@@ -1,56 +1,4 @@
-// import React from 'react';
-// import { HiArrowNarrowRight } from 'react-icons/hi';
-// import CV from "../assets/Romina Olivera - Full stack Developer.pdf"
-// import Developer from "../assets/developer.png"
-
-
-// import "./Home.css"
-
-// const Home = () => {
-//   return (
-//     <div className="i bg-[#FFFFFF]" name='home'>
-//     <div  className='w-full h-screen i-left'>
-//       {/* Container */}
-//       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full i-left-wrapper'>
-//         <p className='text-[#0a192f] text-2xl '>Hola, mi nombre es</p>
-//         <h1 className='text-4xl sm:text-7xl font-bold text-[#231942]'>
-//           Romina Olivera
-//         </h1>
-//         {/* <h2 className='text-4xl sm:text-7xl font-bold text-[#0d1738]'>
-//        Soy
-//         </h2> */}
-       
-
-// <div className="i-title">
-//             <div className="i-title-wrapper">
-                
-//             <div className="i-title-item">Full Stack Developer</div>
-//             <div className="i-title-item">Full Stack Developer</div>
-//             <div className="i-title-item">Full Stack Developer</div>
-//             <div className="i-title-item">Full Stack Developer</div>
-//             <div className="i-title-item">Full Stack Developer</div>
-          
-//             </div>
-//         </div>
-//         <div>
-         
-
-//           	<button className='text-white group border-2 px-6 py-3 my-2 flex items-center bg-[#130a2f] hover:bg-pink-600 hover:border-pink-600' ><a href={CV} target="_blank">Download CV</a></button>
-//         </div>
-//       </div>
-//     </div>
-//         <div className="i-right">
-//             <div className="i-bg"></div>
-//              <img src={Developer} alt="Yo" className='i-img' /> 
-//         </div>
-//     </div>
-//   );
-// };
-
-// export default Home;
-
 import "./Home.css";
-// import Me from "../../img/me.png";
 import Developer from "../assets/developer.png"
 
 
@@ -71,11 +19,6 @@ const Home = () => {
               <div className="i-title-item">Full Stack Developer</div>
             </div>
           </div>
-          {/* <p className="i-desc">
-            I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
-          </p> */}
         </div>
         <svg
           width="75"
