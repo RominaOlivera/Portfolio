@@ -24,10 +24,10 @@ const About = () => {
             <p>¡Hola!</p>
           </div>
           <div>
-            <p className='text-xl'>Mi nombre es Romina Olivera soy desarrolladora web full stack tengo conocimientos en JavaScript, React, Node, Next js, SQL y TypeScript entre otras.</p>
+            <p className='text-xl'>¡Hola! Soy Romina Olivera, desarrolladora web Full Stack con experiencia en tecnologías como JavaScript, React, Node.js, Next.js, SQL y TypeScript, entre otras.
+También me formé en desarrollo mobile, tanto con React Native para apps multiplataforma como con Kotlin para desarrollo Android nativo.</p>
               
-              <p  className='text-xl'>Soy una apasionada por la programación,
-              tengo aptitud para trabajar en equipo, crear nuevas ideas en colaboración, aprender nuevas tecnologías y estar constantemente actualizada de las mismas.</p>
+              <p  className='text-xl'>Me encanta programar, trabajar en equipo, proponer ideas y aprender cosas nuevas todo el tiempo.</p>
           </div>
         </div>
       </div>
